@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Black",
+        "note": [
+            "Coffee"
+        ],
+        "table": 8,
+        "count": 1,
+        "id": 1,
+        "price": 5.45,
+        "img": "https://coffee.alexflipnote.dev/TNsE8fqD1ME_coffee.jpg",
+        "status" : "created"
+    },
+    {
+        "name": "Latte",
+        "note": [
+            "Espresso",
+            "Steamed Milk"
+        ],
+        "table": 12,
+        "count": 2,
+        "id": 2,
+        "price": 5.89,
+        "img": "https://coffee.alexflipnote.dev/D6t6UtYcPWw_coffee.jpg",
+        "status" : "completed"
+    },
+    {
+        "name": "Cappuccino",
+        "note": [
+            "Espresso",
+            "Steamed Milk",
+            "Foam"
+        ],
+        "table": 5,
+        "count": 1,
+        "id": 3,
+        "price": 4.50,
+        "img": "https://coffee.alexflipnote.dev/Jp3JVo4CmKQ_coffee.png",
+        "status" : "in-progress"
+    },
+    {
+        "name": "Americano",
+        "note": [
+            "Espresso",
+            "Hot Water"
+        ],
+        "table": 3,
+        "count": 4,
+        "id": 4,
+        "price": 8.50,
+        "img": "https://coffee.alexflipnote.dev/ezMG2V6WvVw_coffee.jpg",
+        "status" : "in-progress"
+    },
+    {
+        "name": "Espresso",
+        "note": [
+            "1oz Espresso"
+        ],
+        "table": 4,
+        "count": 3,
+        "id": 5,
+        "price": 4.90,
+        "img": "https://coffee.alexflipnote.dev/eiSNDLIyXsI_coffee.jpg",
+        "status" : "completed"
+    },
+    {
+        "name": "Doppio",
+        "note": [
+            "2oz Espresso"
+        ],
+        "table": 22,
+        "count": 2,
+        "id": 6,
+        "price": 6.50,
+        "img": "https://coffee.alexflipnote.dev/rrgsJKE-i28_coffee.jpg",
+        "status" : "created"
+    }
+]
